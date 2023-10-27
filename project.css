@@ -1,0 +1,43 @@
+.projects {
+  background-color: rgb(228, 144, 144);
+  height: 92vh;
+  width: 180vw;
+  margin-top: 20px;
+  margin-right: 200px;
+  border: 8px solid black;
+  border-radius: 10px;
+}
+h4{
+    color: rgb(94, 17, 17);
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+}
+.food img{
+    height: 100px;
+    width: 100px;
+    margin-left: 40px;
+    margin-top: 50px;
+    border-radius: 50%;
+}
+.f{
+    display: flex;
+    flex-direction: row;
+}
+.foodtxt{
+    margin-left: 40px;
+    margin-top: 50px;
+    color:rgb(126, 20, 224);
+    font-size: 40px;
+}
+.foodtxt p{
+    color: black;
+    font-size: 20px;
+}
+.coaching img{
+    height: 100px;
+    width: 100px;
+    margin-left: 40px;
+    margin-top: 50px;
+    border-radius: 50%;
+}
